@@ -1,0 +1,3 @@
+[submodule "Nd Solver"]
+	path = src/N-Dimensional-Path-Planning-Solver
+	url = https://github.com/MistaMase/N-Dimensional-Path-Planning-Solver.git
